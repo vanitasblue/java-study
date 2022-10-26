@@ -1,4 +1,4 @@
-package payroll;
+package codecademy;
 
 public class Newsfeed {
     String[] trendingArticles;

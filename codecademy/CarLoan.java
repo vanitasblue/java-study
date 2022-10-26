@@ -1,4 +1,4 @@
-package payroll;
+package codecademy;
 
 public class CarLoan {
     int carLoan; // 대출금액

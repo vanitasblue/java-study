@@ -1,4 +1,4 @@
-package payroll;
+package codecademy;
 
 // Print out a continent and the largest city in that continent.
 public class Continents {
